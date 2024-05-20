@@ -1,6 +1,6 @@
 # actelemetry
 
-Repo for the idea of my bachelor thesis project.
+Bachelor thesis project idea
 __
 
 ## The idea
